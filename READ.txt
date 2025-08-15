@@ -3,7 +3,7 @@ my-fonts-dc6.pages.dev/
 Example script to be used:
 <script src="https://my-fonts-dc6.pages.dev/js/font-loader.js?f=SilliiWillinn"></script>
 
-@import url('https://my-fonts.pages.dev/fonts/SilliiWillinn.css');
+@import url('https://my-fonts-dc6.pages.dev/css/SilliiWillinn.css');
 
 Sillii Willin:
 font-family: 'SilliiWillinn', cursive;
