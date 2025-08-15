@@ -1,0 +1,7 @@
+my-fonts-dc6.pages.dev/
+
+Example script to be used:
+<script src="https://my-fonts-dc6.pages.dev/js/font-loader.js?f=SilliiWillinn"></script>
+
+Sillii Willin:
+font-family: 'SilliiWillinn', cursive;
