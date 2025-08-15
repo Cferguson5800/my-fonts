@@ -1,8 +1,9 @@
 my-fonts-dc6.pages.dev/
 
-Example script to be used:
+Example script to be used in head:
 <script src="https://my-fonts-dc6.pages.dev/js/font-loader.js?f=SilliiWillinn"></script>
 
+Example to use import in CSS file:
 @import url('https://my-fonts-dc6.pages.dev/css/SilliiWillinn.css');
 
 Sillii Willin:
