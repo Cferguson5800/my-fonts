@@ -11,3 +11,5 @@ font-family: 'SilliiWillinn', cursive;
 
 Avenir LT 35 Light:
 font-family: "Avenir LT 35 Light", sans-serif;
+
+@import url('https://my-fonts-dc6.pages.dev/css/Avenir_LT_35_Light.css');
