@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Avenir LT 35 Light";
+  src: url("fonts/AvenirLT-Light.woff2") format("woff2"),
+       url("fonts/AvenirLT-Light.woff") format("woff"),
+       url("fonts/AvenirLT-Light.ttf") format("truetype");
+  font-weight: normal; 
+  font-style: normal;
+}
