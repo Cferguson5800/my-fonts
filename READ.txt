@@ -10,6 +10,6 @@ Sillii Willin:
 font-family: 'SilliiWillinn', cursive;
 
 Avenir LT 35 Light:
-font-family: "Avenir LT 35 Light", sans-serif;
+font-family: "Avenir_LT_35_Light_Regular", sans-serif;
 
-@import url('https://my-fonts-dc6.pages.dev/css/Avenir_LT_35_Light.css');
+@import url('https://my-fonts-dc6.pages.dev/css/Avenir_LT_35_Light_Regular.css');
