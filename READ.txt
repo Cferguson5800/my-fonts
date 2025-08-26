@@ -8,3 +8,6 @@ Example to use import in CSS file:
 
 Sillii Willin:
 font-family: 'SilliiWillinn', cursive;
+
+Avenir LT 35 Light:
+font-family: "Avenir LT 35 Light", sans-serif;
